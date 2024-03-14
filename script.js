@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const title = document.querySelector('.title');
     const text = title.textContent;
     title.textContent = '';
-    // Coding By AzadCoder - ig: @azadcoderr
+    // Coding By AzadCoder - ig: @beratydm
     const possibleChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+";
 
     for (let i = 0; i < text.length; i++) {
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //          createHeart(symbol);
 //      }, heartInterval);
 //  }
-// Coding By AzadCoder - ig: @azadcoderr
+// Coding By AzadCoder - ig: @beratydm
 //  function createHeart(symbol) {
 //      const heart = document.createElement('div');
 //      heart.classList.add('heart');
@@ -80,7 +80,7 @@ yesButton.addEventListener('click', function () {
     const title = document.querySelector('.title');
     title.textContent = 'Yaşasınn!';
 });
-// Coding By AzadCoder - ig: @azadcoderr
+// Coding By Beratydm - ig: @beratydm
 function generateHearts() {
     const symbols = ['❤️', '💖', '💗', '💕', '💓'];
     const heartInterval = 100;
@@ -129,7 +129,7 @@ document.addEventListener('keydown', function (event) {
 
         // "title" change
         const title = document.querySelector('.title');
-        title.textContent = 'Hile yapmak yok :)';
+        title.textContent = 'Eşşşek Seni :D';
         
 
         //  turn back
@@ -139,4 +139,4 @@ document.addEventListener('keydown', function (event) {
     }
 }
 });
-// Coding By AzadCoder - ig: @azadcoderr
+// Coding By AzadCoder - ig: @beratydm
