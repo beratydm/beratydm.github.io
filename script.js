@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //  });
 
 //  function generateHearts() {
-//      const symbols = ['❤️', '💖', '💗', '💕', '💓']; // 
+//      const symbols = ['A', 'Y', 'S', 'U']; //    
 //      const heartInterval = 50; //   200ms'de bir oluştur 
 
 //      setInterval(() => {
