@@ -78,7 +78,7 @@ yesButton.addEventListener('click', function () {
 
 
     const title = document.querySelector('.title');
-    title.textContent = 'Öyle Güzel Gülemez Bi İnsan';
+    title.textContent = 'Çok Güzel Gülüyorsun...';
 });
 // Coding By Beratydm - ig: @beratydm
 function generateHearts() {
