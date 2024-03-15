@@ -82,7 +82,7 @@ yesButton.addEventListener('click', function () {
 });
 // Coding By Beratydm - ig: @beratydm
 function generateHearts() {
-    const symbols = ['❤️', '💖', '💗', '💕', '💓'];
+    const symbols = ['A', 'Y', 'S', 'U', ];
     const heartInterval = 100;
 
     setInterval(() => {
